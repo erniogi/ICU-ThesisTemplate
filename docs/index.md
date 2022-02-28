@@ -7,7 +7,7 @@ A Tex class file for writing senior thesis at [International Christian Universit
 ### Title Page
 
 TitlePage
-![titlepage](https://github.com/erniogi/ICU-ThesisTemplate/blob/main/src/titlepage.png)
+![titlepage](../src/titlepage.png)
 
 ### Misc
 
